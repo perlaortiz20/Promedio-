@@ -1,0 +1,13 @@
+Algoritmo Promedio
+	Escribir 'Ingrese la cantidad de datos'
+	Definir numeroa,numerob,numeroc,prom Como Real
+	Escribir 'Ingrese numero a'
+	Leer numeroa
+	Escribir 'Ingrese numero b'
+	Leer numerob
+	Escribir 'Ingrese numero c'
+	Leer numeroc
+	// proceso
+	prom <- (numeroa+numerob+numeroc)/3
+	Escribir ' El promedio es:',prom
+FinProceso 
